@@ -4134,7 +4134,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div class="bonus-list">
     <div class="bonus-item">
-        <p><span class="highlight-gold">BONUS NEW MEMBER 100%</span></p>
+        <p><span class="highlight-gold">BONUS NEW MEMBER TERBESAR</span></p>
     </div>
     <div class="bonus-item">
         <p>Link Slot Gacor Hari Ini Mudah Menang</p>
@@ -6620,7 +6620,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
             <div class="info-card">
                 <div class="label">Minimal Withdraw</div>
-                <div class="value">25.000 Ribu</div>
+                <div class="value">50.000 Ribu</div>
             </div>
             <div class="info-card">
                 <div class="label">Layanan Support</div>
@@ -7232,7 +7232,7 @@ digitalData.page.pageInfo.pageName = pageName;
           <!-- About SLOT -->
           <div class="footer-category">
             <p class="footer-category__title" id="footer-category-title-4-2">
-              About SLOT GACOR 777
+              About SLOT GACOR
             </p>
             <a an-ac="footer" an-ca="navigation" an-la="about SLOT" an-tr="nv01_footer sitemap|menu1Depth" aria-labelledby="footer-category-title-4-2" class="footer-category__anchor" href="javascript:void(0);" role="button" an-as="">
               <span class="hidden">
